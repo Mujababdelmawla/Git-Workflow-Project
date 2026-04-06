@@ -7,6 +7,7 @@ A project that showcase a real team git workflow as part of my devops learning j
 - Conflict resolution .
 - Git hooks .
 - Real team workfolw simulation .
-
+  
+dev-b is modifying this file
 # Author 
 MUJAB YOUSEF - A Devops Engineer in training 
